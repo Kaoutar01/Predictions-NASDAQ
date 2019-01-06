@@ -1,4 +1,5 @@
 # SpireMoney-- Predications based on Nasdaq's data ( using Alphavantage api)
+# KAFAK 
 
 
 
